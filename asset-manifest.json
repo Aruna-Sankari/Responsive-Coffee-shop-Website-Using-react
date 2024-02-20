@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Responsive-Coffee-shop-Website-Using-react/static/css/main.b765ef2c.css",
+    "main.js": "/Responsive-Coffee-shop-Website-Using-react/static/js/main.82a29056.js",
+    "static/js/787.2c451ce6.chunk.js": "/Responsive-Coffee-shop-Website-Using-react/static/js/787.2c451ce6.chunk.js",
+    "static/media/about-img.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/about-img.235ae5aa84302b43805f.png",
+    "static/media/banner-bg.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/banner-bg.f1adc9c758d0a2394c26.png",
+    "static/media/services-bg.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/services-bg.6f8ca9b6169e399b0cc3.png",
+    "static/media/img-6.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-6.8292d12bb689e7182e06.png",
+    "static/media/img-7.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-7.6990f6eb9b4578f9364b.png",
+    "static/media/img-9.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-9.9049d4c3331afe58895d.png",
+    "static/media/img-1.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-1.6e3a3529b8e1263b62c6.png",
+    "static/media/img-3.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-3.4c4226eb4e7b2dbf4311.png",
+    "static/media/img-5.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-5.6028943c7aa9ba6bcc4d.png",
+    "static/media/img-2.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-2.5e96741a91465f8bb5a6.png",
+    "static/media/img-4.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-4.5a333d04e8e9122b36e3.png",
+    "static/media/img-8.png": "/Responsive-Coffee-shop-Website-Using-react/static/media/img-8.a3693346f078295ae6d0.png",
+    "index.html": "/Responsive-Coffee-shop-Website-Using-react/index.html",
+    "main.b765ef2c.css.map": "/Responsive-Coffee-shop-Website-Using-react/static/css/main.b765ef2c.css.map",
+    "main.82a29056.js.map": "/Responsive-Coffee-shop-Website-Using-react/static/js/main.82a29056.js.map",
+    "787.2c451ce6.chunk.js.map": "/Responsive-Coffee-shop-Website-Using-react/static/js/787.2c451ce6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b765ef2c.css",
+    "static/js/main.82a29056.js"
+  ]
+}
